@@ -1,3 +1,3 @@
 # stnews
 news site
-https://mrshakill.github.io/stnews/
+https://mrshakill.github.io/stnewss/
